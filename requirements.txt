@@ -1,0 +1,10 @@
+streamlit
+requests
+beautifulsoup4
+langchain
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+langchain-chroma
+langchain-groq
+python-dotenv
