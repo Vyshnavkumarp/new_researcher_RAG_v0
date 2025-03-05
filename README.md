@@ -3,7 +3,7 @@
 ## Overview
 News Researcher is a powerful tool that allows users to extract meaningful insights from multiple news articles using AI. Simply provide URLs to news articles, and the application will process the content, store it in a vector database, and answer your questions based on the information in those articles.
 
-![News Researcher](https://i.imgur.com/placeholder-image.png)
+![News Researcher](https://github.com/user-attachments/assets/e54f3e69-59e5-4257-b489-dc45d97bcc59) 
 
 ## Features
 
@@ -35,6 +35,7 @@ News Researcher is a powerful tool that allows users to extract meaningful insig
      ```bash
      source news_venv/bin/activate
      ```
+
 
 4. Install required packages:
    ```bash
